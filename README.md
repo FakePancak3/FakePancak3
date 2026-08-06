@@ -12,4 +12,4 @@ I'm 14, Student, Currently trying to learn Python.
 ## 🛠 Skills
 HTML, CSS, LuaU.
 
-<img src="https://media.discordapp.net/attachments/1457020395986096331/1534868179686527080/500px-Python-logo-notext.svg.png?ex=6a75b0e2&is=6a745f62&hm=55d71597cee3f89039dee4aaa9017b3f7bfa445b518fa1a7ea4af9a13798ca40&=&format=webp&quality=lossless" width="400" height="250">
+<img src="https://media.discordapp.net/attachments/1457020395986096331/1534868179686527080/500px-Python-logo-notext.svg.png?ex=6a75b0e2&is=6a745f62&hm=55d71597cee3f89039dee4aaa9017b3f7bfa445b518fa1a7ea4af9a13798ca40&=&format=webp&quality=lossless" width="100" height="100">
