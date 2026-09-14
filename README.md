@@ -1,7 +1,9 @@
 ![Alt Text](banner.png)
 
 ## 🚀 About Me
-I'm 14, Student, Currently trying to learn Python.
+Hi! Im a student, currently learning python with experience in languages like LuaU, CSS etc
+I love: Gaming, Music, Sports
+Where to contact me: Discord (summersalestart)
 
 ## 🛠 Skills
 HTML, CSS, LuaU.
