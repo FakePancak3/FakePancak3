@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm FakePancak3 👋</h1>
 
 <p align="center">
-  <a href="https://discord.com/1131858354642358394" target="_blank">
+  <a href="https://discord.com/users/1131858354642358394" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://instagram.com/actually.alwin" target="_blank">
