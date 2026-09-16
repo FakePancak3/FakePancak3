@@ -22,7 +22,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/FakePancak3/novum">Novum</a></h3>
       <p>A autoclicker built with Python.</p>
-      <p>🟡 <b>Luau</b></p>
+      <p>🔵 <b>Python</b></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/FakePancak3/oneclean">Oneclean</a></h3>
