@@ -17,16 +17,17 @@
 
 <h2 align="center">My favorite projects 💻</h2>
 
-<table border="0">
+<table border="1" align="center">
   <tr>
-    <td width="50%">
-      <a href="https://github.com/FakePancak3/novum">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FakePancak3&repo=repo-name-1&theme=dark" width="100%" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/FakePancak3/novum">Novum</a></h3>
+      <p>A autoclicker built with Python.</p>
+      <p>🟡 <b>Luau</b></p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/FakePancak3/oneclean">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FakePancak3&repo=repo-name-2&theme=dark" width="100%" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/FakePancak3/oneclean">Oneclean</a></h3>
+      <p>A CLI based folder cleaner</p>
+      <p>🔵 <b>Python</b></p>
     </td>
   </tr>
+</table>
