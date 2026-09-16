@@ -30,6 +30,12 @@
       <p>🔵 <b>Python</b></p>
     </td>
   </tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/FakePancak3/takeabreak">TakeABreak</a></h3>
+      <p>Lightweight notification reminder to look away from the screen.</p>
+      <p>🔵 <b>Python</b></p>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
