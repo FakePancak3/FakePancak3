@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  Building cool things and scripting roblox games for fun.
+  Building slop apps every month.
 </p>
 
 <h2 align="center">My favorite projects 💻</h2>
