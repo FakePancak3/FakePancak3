@@ -33,6 +33,6 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FakePancak3&show_icons=true&theme=synthwave" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakePancak3&layout=compact&theme=synthwave" alt="Most Used Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FakePancak3&theme=dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FakePancak3&theme=dark" width="48%" />
 </p>
