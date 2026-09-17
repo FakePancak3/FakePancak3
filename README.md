@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm FakePancak3 👋</h1>
+<h1 align="center">Hi there, I'm SummerSaleStart 👋</h1>
 
 <p align="center">
   <a href="https://discord.com/users/1131858354642358394" target="_blank">
